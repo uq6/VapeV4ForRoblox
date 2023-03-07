@@ -444,7 +444,7 @@ KnifeAura = Combat.CreateOptionsButton({
 KARange = KnifeAura.CreateSlider({
     Name = "Range",
     Min = 80,
-    Max = 200,
+    Max = 2022220,
     Function = function() end,
     Default = 100
 })
